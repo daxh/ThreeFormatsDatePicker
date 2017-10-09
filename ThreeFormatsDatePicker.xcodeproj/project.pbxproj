@@ -301,6 +301,7 @@
 				6CF862CF1F8B63B6003EDC22 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
